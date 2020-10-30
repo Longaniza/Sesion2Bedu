@@ -1,0 +1,34 @@
+#freetrial-button {
+    color:white;
+    background-color: #67b54b;
+    padding:12px 14px;
+    border-radius: 5px;
+    border: none;
+}
+#signin-button {
+    color:#67b54b;
+    text-decoration: none;
+}
+.header-container {
+    margin-top: 40px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 45px;
+    font-family: sans-serif;
+    color: #025157;
+}
+.logs {
+    margin-left: 2em;
+    font-size: 14px;
+}
+.logs > * {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+li {
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline-block;
+}
